@@ -1,4 +1,4 @@
-# Intrusion Detection Models on Internet of vechicles by Federated learning.
+# Intrusion Detection Models on Internet of vehicles by Federated learning.
 
 Federated learning is a method of training machine learning models in which data is distributed across multiple devices or locations, rather than being centralized in a single location. Each device, or "edge" device, trains a local version of the model using its own data, and then periodically sends updates to a central server, which aggregates the updates to improve the overall model. This allows for models to be trained on a much larger and more diverse dataset, and also helps to protect the privacy of users by keeping their data on their own devices.
 
